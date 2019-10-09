@@ -23,5 +23,5 @@ console.log(reduceArray(array));
 ```
 ## Result:
 
-[Result]: ./Screenshot.png "Code Result"
+![alt text](./Screenshot.png "Logo Title Text 1")
 
